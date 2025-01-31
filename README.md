@@ -1,0 +1,2 @@
+# MongoDB Aggregation Pipeline Bug
+This repository demonstrates a common error in MongoDB aggregation pipelines resulting in inaccurate results. The bug arises from an incorrectly structured pipeline, leading to unexpected grouping or filtering behavior. The solution shows how to correctly structure the pipeline to get the accurate results.
